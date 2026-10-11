@@ -1,8 +1,8 @@
 class C2paCheck < Formula
   desc "Verify Content Credentials (C2PA) in files and URLs"
   homepage "https://c2pa.design"
-  url "https://github.com/c2pa-design/c2pa-check/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "44e35a2b942c6cc0877201159aea601ab1cd495d360334a00cffdf6358b828d4"
+  url "https://github.com/c2pa-design/c2pa-check/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "eca9e8a7163dfbe62d1d9a33bab7705da7bc71ae4cb925a73b4ed8c789faccf9"
   license "MIT"
 
   depends_on "pkgconf" => :build
